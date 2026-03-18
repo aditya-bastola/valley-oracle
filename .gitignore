@@ -1,0 +1,16 @@
+# Environments
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/OS specifics
+.vscode/
+.DS_Store
+
+cursor_handoff.md
