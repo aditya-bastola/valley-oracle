@@ -30,8 +30,9 @@ ValleyOracle is a specialized AI advisor built to provide high-signal startup ad
 
 ## 🏃 Quick Start
 
-### 1. Clone the repo
+
 ```bash
+1. Clone the repo
 git clone [https://github.com/YOUR-USERNAME/valley-oracle.git](https://github.com/YOUR-USERNAME/valley-oracle.git)
 cd valley-oracle
 
