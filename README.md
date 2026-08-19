@@ -2,7 +2,7 @@
 
 **The RAG-powered mentor that thinks like a Silicon Valley legend.**
 
-ValleyOracle is a specialized AI advisor built to provide high-signal startup advice. Unlike generic LLMs, it is grounded strictly in the collective wisdom of elite founders—starting with the complete essays of **Paul Graham** and the principles of **Naval Ravikant**.
+ValleyOracle is a specialized AI advisor built to provide high-signal startup advice. Unlike generic LLMs, it is grounded strictly in the collective wisdom of elite founders—starting with the complete essays of **Paul Graham** 
 
 ---
 
